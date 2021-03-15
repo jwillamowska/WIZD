@@ -1,0 +1,21 @@
+﻿kierunek;wynagrodzenie;uczelnia;rok;forma;poziom;wskaznik;przedzial;binary
+ Informatyka ;9155,51; Politechnika Krakowska im. Tadeusza Kościuszki ;2018;Niestacjonarne;II stopnia;2,04;9000-10000;>=1
+ Informatyka Stosowana ;11986,45; Politechnika Warszawska ;2018;Niestacjonarne;II stopnia;2;>11000;>=1
+ Bioinformatyka i biologia systemów ;9026,35; Uniwersytet Warszawski ;2018;Stacjonarne;I stopnia;1,87;9000-10000;>=1
+ Informatyka ;8699,17; Politechnika Wrocławska ;2018;Niestacjonarne;II stopnia;1,87;8000-9000;>=1
+ Informatyka ;8962,36; Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie ;2018;Stacjonarne;II stopnia;1,85;8000-9000;>=1
+ Teleinformatyka ;8695,74; Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie ;2018;Stacjonarne;II stopnia;1,84;8000-9000;>=1
+ Informatyka ;9233,36; Polsko-Japońska Akademia Technik Komputerowych ;2018;Niestacjonarne;II stopnia;1,84;9000-10000;>=1
+ Górnictwo i geologia ;8600,8; Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie ;2018;Niestacjonarne;II stopnia;1,82;8000-9000;>=1
+ Informatyka ;9601,01; Uniwersytet Jagielloński w Krakowie ;2018;Niestacjonarne;II stopnia;1,82;9000-10000;>=1
+ Informatyka ;8994,16; Uniwersytet Jagielloński w Krakowie ;2018;Stacjonarne;II stopnia;1,81;8000-9000;>=1
+ Informatyka ;11320,8; Uniwersytet Warszawski ;2018;Stacjonarne;II stopnia;1,8;>11000;>=1
+ Informatyka ;7914,81; Politechnika Poznańska ;2018;Niestacjonarne;II stopnia;1,78;7000-8000;>=1
+ Informatyka ;7273,77; Politechnika Łódzka ;2018;Niestacjonarne;I stopnia;1,75;7000-8000;>=1
+ Informatyka ;7600,79; Uniwersytet Łódzki ;2018;Niestacjonarne;II stopnia;1,74;7000-8000;>=1
+ Automatyka i robotyka ;7452,57; Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie ;2018;Stacjonarne;II stopnia;1,73;7000-8000;>=1
+ Informatyka ;8059,47; Politechnika Łódzka ;2018;Niestacjonarne;I stopnia;1,73;8000-9000;>=1
+ Informatyka ;8995,5; Politechnika Gdańska ;2018;Stacjonarne;II stopnia;1,73;8000-9000;>=1
+ Automatyka i robotyka ;7047,29; Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie ;2018;Niestacjonarne;II stopnia;1,72;7000-8000;>=1
+ Elektronika i telekomunikacja ;8122,9; Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie ;2018;Stacjonarne;II stopnia;1,72;8000-9000;>=1
+ Informatyka stosowana ;7706,44; Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie ;2018;Niestacjonarne;II stopnia;1,7;7000-8000;>=1
